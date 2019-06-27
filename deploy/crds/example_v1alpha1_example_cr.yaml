@@ -1,0 +1,7 @@
+apiVersion: example.christianalexander.com/v1alpha1
+kind: Example
+metadata:
+  name: example-example
+spec:
+  # Add fields here
+  count: 3
